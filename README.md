@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Temple Core
 
 You have reached the center of the temple.
@@ -29,3 +30,18 @@ Extract your answer.
 Once you have your answer, continue to:
 
 `hidden-treasure`
+=======
+# Path of Light
+
+The bright path reveals what is hidden in plain sight.
+
+## Your Task
+
+1. Open `light.txt`
+2. Find the hidden clue
+3. Record your answer
+
+Once your team has also completed the shadow path, continue to:
+
+`temple-core`
+>>>>>>> path-of-light
